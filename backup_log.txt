@@ -1,0 +1,20 @@
+-------------------------
+Backup created successfully on 2023-02-20 14:17:01.
+Backup name:backup_Feb-20-2023-h14-m17-s01
+Size of backup: 1.46 MB
+-------------------------
+Backup created successfully on 2023-02-20 14:17:10.
+Backup name:backup_Feb-20-2023-h14-m17-s10
+Size of backup: 1.46 MB
+-------------------------
+Backup created successfully on 2023-02-20 14:18:38.
+Backup name:backup_Feb-20-2023-h14-m18-s38
+Size of backup: 1.46 MB
+-------------------------
+Backup created successfully on 2023-02-20 14:18:56.
+Backup name:backup_Feb-20-2023-h14-m18-s56
+Size of backup: 1.46 MB
+-------------------------
+Backup created successfully on 2023-02-20 14:34:24.
+Backup name:backup_Feb-20-2023-h14-m34-s24
+Size of backup: 1.46 MB
